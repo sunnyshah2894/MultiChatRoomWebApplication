@@ -1,0 +1,30 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "Multi Chat room Web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyshah2894/MultiChatRoomWebApplication.git"
+  },
+  "keywords": [
+    "Chat",
+    "Nodejs",
+    "MultiChat",
+    "socketio"
+  ],
+  "author": "Sunny Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyshah2894/MultiChatRoomWebApplication/issues"
+  },
+  "homepage": "https://github.com/sunnyshah2894/MultiChatRoomWebApplication#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "socket.io": "^2.1.1"
+  }
+}
